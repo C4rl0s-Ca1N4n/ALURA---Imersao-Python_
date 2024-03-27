@@ -26,3 +26,15 @@ O desafio da aula 2:
 - Crie um gráfico de barras olhando a faixa etária e o valor da variação;
 - Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
 - Explore os tipos de gráficos com os dados já feitos.
+
+### Aula 3
+Nesta aula, teremos:
+- Manipular dados com Pandas;
+- Transformar a planilha de ações com funções do Pandas;
+- Construir gráficos com a biblioteca Plotly Express;
+- Usar o Chat GPT durante o código.
+
+O desafio da aula 3:
+- Pesquisar com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
+- Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
+- Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
