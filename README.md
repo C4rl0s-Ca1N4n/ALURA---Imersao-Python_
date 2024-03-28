@@ -38,3 +38,12 @@ O desafio da aula 3:
 - Pesquisar com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
 - Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
 - Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
+
+### Aula 4
+Nesta aula, teremos:
+- Criar gráficos de velas;
+- Aprender a fazer gráficos interativos com Plotly.
+
+O desafio da aula 4:
+- Pesquisar o que é uma tupla em Python;
+- Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
