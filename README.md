@@ -57,5 +57,5 @@ Nesta última aula, vamos introduzir o Machine Learning com Prophet para além d
 - Conhecer mais sobre as carreiras no mercado de dados.
 
 O desafio da aula 5:
-- Usar o Machine Learning com Prophet para prever os dados de uma acão financeira.
-- Gerar graficos para mostrar as previsões do Prophet.
+- Usar o Machine Learning com Prophet para prever os dados de uma ação financeira.
+- Gerar gráficos para mostrar as previsões do Prophet.
