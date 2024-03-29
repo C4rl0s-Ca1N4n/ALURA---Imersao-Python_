@@ -47,3 +47,15 @@ Nesta aula, teremos:
 O desafio da aula 4:
 - Pesquisar o que é uma tupla em Python;
 - Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
+
+### Aula 5
+
+Nesta última aula, vamos introduzir o Machine Learning com Prophet para além de todas as ferramentas já aprendidas durante a Imersão.
+
+- Ter uma introdução ao Machine Learning;
+- Revisar ferramentas aprendidas durante a Imersão;
+- Conhecer mais sobre as carreiras no mercado de dados.
+
+O desafio da aula 5:
+- Usar o Machine Learning com Prophet para prever os dados de uma acão financeira.
+- Gerar graficos para mostrar as previsões do Prophet.
